@@ -5,4 +5,5 @@ This is just a test area where I can practice the git work flow in a safe enviro
 ## Test area
 - Hello World!
 - Here's a commit
+- Another commit
 
