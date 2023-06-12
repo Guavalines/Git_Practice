@@ -6,4 +6,5 @@ This is just a test area where I can practice the git work flow in a safe enviro
 - Hello World!
 - Here's a commit
 - Another commit
+- And another commit
 
